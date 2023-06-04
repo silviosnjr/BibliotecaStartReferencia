@@ -3,8 +3,8 @@
 
 <hr>
 
-<p align="center"> <img src="https://github.com/MonicaHillman/alurabooks/blob/aula05/img/Logo.svg" alt="Logo da alura plus"> </p>
-<p align="center">Um site do e-commerce AluraBooks, uma livraria online de livros sobre tecnologia.</p>
+<p align="center"> <img src="https://github.com/silviosnjr/BibliotecaStartReferencia/img/Logo.svg" alt="Logo Alura Books"> </p>
+<p align="center">Um site para biblioteca baseado no projeto Alura Books.</p>
 
 ## Tecnologias
 * HTML
@@ -12,4 +12,4 @@
 * SwiperJS
 
 ## Screenshots
-![Screenshot da tela inicial do AluraBooks](https://imgur.com/6GsjQvJ.png)
+![Screenshot da tela inicial do Bilbioteca Start](https://github.com/silviosnjr/BibliotecaStartReferencia/blob/main/print_biblioteca_start.png)
