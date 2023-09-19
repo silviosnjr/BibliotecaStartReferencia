@@ -1,17 +1,11 @@
-<!--<p align="center"> <img src="https://imgur.com/Hy6t2jH.png" alt="HTML e CSS: responsividade com mobile-first"> </p>*-->
+<p align="center"> <img src="https://raw.githubusercontent.com/silviosnjr/BibliotecaStart/5a7bd30bc268b6293a5f510e7f3d600638145f3c/img/Logo.svg" alt="Logo Biblioteca Start"> </p>
+<p align="center">Um site feito a partir do protótipo: <a href="https://www.figma.com/file/KzKSHdH3IipUMuZ4rQAjwk/BibliotecaStart">Biblioteca Start</a></p>
+<p align="center">Baseado no protótipo do Alura Books do curso: <a href="https://cursos.alura.com.br/course/html-css-responsividade-com-mobile-first">HTML e CSS: Responsividade com mobile first</a></p>
 
-<hr>
-
-<p align="center"> <img src="https://raw.githubusercontent.com/silviosnjr/BibliotecaStartReferencia/2d17a25216b1fe97c644b5e1a2cf845ce5a3afdf/img/Logo.svg" alt="Logo Alura Books"> </p>
-<p align="center">Um site feito a partir do protótipo:</p>
-<p align="center"><a href="https://www.figma.com/file/KzKSHdH3IipUMuZ4rQAjwk/BibliotecaStart">Biblioteca Start</a></p>
-<p align="center">E também no projeto Alura Books do curso:</p>
-<p align="center"><a href="https://cursos.alura.com.br/course/html-css-responsividade-mobile-first">HTML e CSS: Responsividade com mobile first</a></p>
+## Animação do projeto final
+![Animação da tela inicial do Bilbioteca Start](https://github.com/silviosnjr/BibliotecaStart/blob/main/apresetacao_site_repositorio.gif)
 
 ## Tecnologias
 * HTML
 * CSS
 * SwiperJS
-
-## Screenshots
-![Screenshot da tela inicial do Bilbioteca Start](https://github.com/silviosnjr/BibliotecaStartReferencia/blob/main/print_biblioteca_start.png)
